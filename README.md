@@ -33,7 +33,7 @@ The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in th
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/Nobel_Prize_Winners_Visual_History/blob/main/Nobel_Prize_Winners_Visual_History.ipynb)
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/Nobel_Prize_Winners_Visual_History/main?filepath=Nobel_Prize_Winners_Visual_History.ipynb)
 
-- *Executing [Generating_Keywords_for_Google_Ads.py](https://raw.githubusercontent.com/Suraj-Patro/Nobel_Prize_Winners_Visual_History/main/nobel_prize_winners_visual_history.py) in a Python Environment with the [required packages](#packages-required) installed.*
+- *Executing [Nobel_Prize_Winners_Visual_History.py](https://raw.githubusercontent.com/Suraj-Patro/Nobel_Prize_Winners_Visual_History/main/nobel_prize_winners_visual_history.py) in a Python Environment with the [required packages](#packages-required) installed.*
 
 # Packages Required
 - [NumPy](https://numpy.org/doc/stable/user/quickstart.html)
